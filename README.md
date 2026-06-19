@@ -179,6 +179,3 @@ Through this project, the following skills were developed:
 ## ✅ Conclusion
 
 The Financial Inclusion Dashboard provides a comprehensive view of banking accessibility across East Africa. The dashboard enables stakeholders to identify financial inclusion trends, understand demographic patterns, and make informed decisions to improve access to banking services.
-
-
-
